@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------------------
+width・・・・幅
+height・・・高さ
+border: solid　・・・1本の直線、実線を表示します。
+align-items
+
+
+
+
+Flexible Box
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+-------------------------------------------------*/
