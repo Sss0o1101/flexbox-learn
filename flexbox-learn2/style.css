@@ -1,1 +1,8 @@
-h
+@charset "UTF-8";
+
+.container{
+    border: 8px solid blue;
+    /* display: flex; */
+    display: inline-flex;
+    width: 280%;
+}
